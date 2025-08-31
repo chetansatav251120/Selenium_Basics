@@ -1,7 +1,7 @@
 import time
 
-from PageObjects.Radio_button_page_objects import *
-from Utilites.Utilites import get_logger
+from pages.Radio_button_page_objects import *
+from utils.Utilites import get_logger
 
 
 def test_select_drop_down(browser_launch):

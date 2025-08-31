@@ -1,7 +1,7 @@
 import time
 
-from PageObjects.Checkbox_Page_Objects import Checkbox_Page_Objects
-from Utilites.Utilites import get_logger
+from pages.Checkbox_Page_Objects import Checkbox_Page_Objects
+from utils.Utilites import get_logger
 
 
 def test_select_checkbox(browser_launch):
