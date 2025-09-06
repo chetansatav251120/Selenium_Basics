@@ -1,0 +1,9 @@
+2025-08-31 20:42:30,621 : INFO : utils.Utilites : Selecting the radio button
+2025-08-31 20:42:31,362 : INFO : utils.Utilites : Clicking the radio button 2
+2025-08-31 20:42:41,509 : INFO : utils.Utilites : Clicking the radio button 3
+2025-08-31 20:42:56,895 : INFO : utils.Utilites : Selecting the checkbox
+2025-08-31 20:42:56,895 : INFO : utils.Utilites : Selecting the checkbox
+2025-08-31 20:42:57,246 : INFO : utils.Utilites : Clicked on checkbox with value 'option2'
+2025-08-31 20:42:57,246 : INFO : utils.Utilites : Clicked on checkbox with value 'option2'
+2025-08-31 20:43:02,426 : INFO : utils.Utilites : Clicked on checkbox with value 'option3'
+2025-08-31 20:43:02,426 : INFO : utils.Utilites : Clicked on checkbox with value 'option3'

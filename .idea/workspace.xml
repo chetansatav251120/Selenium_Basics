@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c67fa97-2f0d-4f38-8359-8eafede69fa9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_Select_radion_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_Select_radion_button.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_select_check_box.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_select_check_box.py" afterDir="false" />
-    </list>
+    <list default="true" id="3c67fa97-2f0d-4f38-8359-8eafede69fa9" name="Changes" comment="updating files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,6 +110,19 @@
       <option name="presentableId" value="Default" />
       <updated>1756650065809</updated>
     </task>
+    <task id="LOCAL-00001" summary="updating files">
+      <option name="closed" value="true" />
+      <created>1756653817764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756653817764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updating files" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating files" />
   </component>
 </project>
